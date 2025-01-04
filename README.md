@@ -4,10 +4,10 @@ hitsz本研平台自动抢课脚本
 大三了用不着这玩意抢了，顺手开源了
 
 # 使用教程
-1.此图为需要填写的参数列表，下面展示如何填写关键参数
+**1.此图为需要填写的参数列表，下面展示如何填写关键参数**
 ![image](https://github.com/user-attachments/assets/732b92a6-f953-4e47-988b-f80c537c5741)
 
-2.**p_ids**的填写
+**2.p_ids的填写**
 
 首先进入本研平台的选课界面
 ![image](https://github.com/user-attachments/assets/ebce639a-808a-419d-b755-9a08a8b77f9f)
@@ -25,7 +25,7 @@ hitsz本研平台自动抢课脚本
 ![image](https://github.com/user-attachments/assets/b72c4f87-8737-4c43-99d3-6a2060d4092b)
 
 
-3.**p_xkfsdm**的填写
+**3.p_xkfsdm的填写**
 
 打开与p_id同一个数据包的另一项
 ![image](https://github.com/user-attachments/assets/56dad737-aba7-4164-a8cd-7bdc37327649)
@@ -34,7 +34,7 @@ hitsz本研平台自动抢课脚本
 ![image](https://github.com/user-attachments/assets/ea87ce03-7c44-4949-b3e1-742ca78369ce)
 
 
-4.剩余参数
+**4.剩余参数**
 
 学年学期等参数根据注释填写即可
 
@@ -46,7 +46,7 @@ hitsz本研平台自动抢课脚本
 
 
 
-5.**cookie**参数
+**5.cookie参数**
 
 抢课期间学校的垃圾服务器会把已经在线的人卡下线，此时整个系统基本是登不上去的。对于正常选课的人需要先登录上系统，加载出画面，还要艰难地进入到选课页面才能选课，基本不可能。
 
