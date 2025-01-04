@@ -6,7 +6,7 @@ hitsz本研平台自动抢课脚本
 1.此图为需要填写的参数列表，下面展示如何填写关键参数
 ![image](https://github.com/user-attachments/assets/732b92a6-f953-4e47-988b-f80c537c5741)
 
-2.**p_ids**的填写
+2.**p_ids**的填写\n
 首先进入本研平台的选课界面
 ![image](https://github.com/user-attachments/assets/ebce639a-808a-419d-b755-9a08a8b77f9f)
 按下F12打开开发者选项，进入网络页面
